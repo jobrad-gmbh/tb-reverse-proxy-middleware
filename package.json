@@ -1,5 +1,5 @@
 {
-  "name": "reverse-proxy-middleware",
+  "name": "@jobrad-gmbh/tb-reverse-proxy-middleware",
   "version": "0.0.79",
   "description": "A reverse proxy blocking bot requests.",
   "keywords": [
